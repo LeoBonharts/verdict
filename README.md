@@ -1,11 +1,11 @@
-## URLtoTG001 (Bot)
+## Verdict (Bot)
 ---
 
-A Simple Telegram Bot to Upload Files From **Direct Links** and **Google Drive Links** and **Youtube Links**, Convert Document media to Video, and Rename Audio/Video/Document Files.
+A Simple Telegram Bot
 
 **Features**:
 
-👉 /upload : Upload Remote URL to Telegram.
+👉 /upload : Upload Remote URL.
 
 👉 /c2v : Convert Document media to Video .
 
@@ -18,7 +18,7 @@ A Simple Telegram Bot to Upload Files From **Direct Links** and **Google Drive L
 - Large File Upload Supported (with Spliting)
 
 #### LICENSE
-- GPLv3
+- MIT
 
 ## 🚀 Deployment
 
